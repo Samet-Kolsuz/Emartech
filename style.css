@@ -1,0 +1,11 @@
+.w-100-height{
+    height: 90vh;
+    width: 100%;
+}
+.carousel-item{
+    min-height: 300px;
+
+}
+.carousel-item .carousel1{
+    text-align: left;
+}
